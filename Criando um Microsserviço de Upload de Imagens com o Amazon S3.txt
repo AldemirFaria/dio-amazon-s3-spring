@@ -1,0 +1,74 @@
+=======================================================================
+           Criando um Microsserviço de Upload de Imagens com o Amazon S3 - DIO
+=======================================================================
+Introdução
+
+Apresentação
+https://www.youtube.com/watch?v=61BVEnLG958
+
+O que são microsserviços
+https://www.youtube.com/watch?v=qZNeL2IqFjw
+
+Computação em nuvem
+https://www.youtube.com/watch?v=aa8mN_D_QKc
+
+Visão geral sobre AWS
+https://www.youtube.com/watch?v=GnOqFTVgxXI
+
+=======================================================================
+Amazon AWS S3
+
+Visão geral sobre AWS S3
+https://www.youtube.com/watch?v=iuxhGWRY0po
+
+Criando e configurando um bucket pelo console aws
+https://www.youtube.com/watch?v=K6qCZo-Yb5k
+
+Criando e configurando um bucket com Java - Parte 01
+https://www.youtube.com/watch?v=oRz0bhBTIAE
+
+Criando e configurando um bucket com Java - Parte 02
+https://www.youtube.com/watch?v=bs4N0oHUkHE
+
+=======================================================================
+Primeiro projeto com spring boot
+
+O que é Spring spring boot e initializer?
+https://www.youtube.com/watch?v=YcXZ0yhgGv8
+
+Padrão REST
+https://www.youtube.com/watch?v=lrGRekGP1RA
+
+Primeira API co Spring Boot -  Parte 01: Listagem e get bucket
+https://www.youtube.com/watch?v=zU4hcF9zKKw
+
+Primeira API co Spring Boot -  Parte 02: Upload de objetos com Java
+https://www.youtube.com/watch?v=EQs3J4f3wAA
+
+Primeira API co Spring Boot -  Parte 03: Listagem de objetos e upload com metadados
+https://www.youtube.com/watch?v=ttMi-Yq9DdE
+
+=======================================================================
+Implementando API com S3
+
+Criando a API REST - métodos get para listbuckets e getbucket
+https://www.youtube.com/watch?v=sz-XP6PkBnA
+
+Criando método para listar objetos em um bocket
+https://www.youtube.com/watch?v=t8jwm_0-WNs
+
+Criando métodos put para upload de imagens e criação de buckets
+https://www.youtube.com/watch?v=So7NI0Qjr98
+
+Conclusão
+https://www.youtube.com/watch?v=dBUZcBjimbs
+
+=======================================================================
+Materiais de apoio
+
+GitHub
+https://github.com/julianazanelatto/s3withspring
+
+Slides
+https://drive.google.com/file/d/1x6GOWOcJaY3RnXF6j8VTE_w6Mmhl30Ux/view?usp=sharing
+=======================================================================
